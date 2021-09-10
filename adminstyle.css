@@ -1,0 +1,29 @@
+#www {
+    color:rgb(47, 0, 255);
+}
+
+#mm {
+    color: rgb(255, 0, 191);
+    font-size: 20px;
+}
+
+
+.iiii{
+    color: rgb(255, 0, 191);
+    font-size: 20px;
+}
+
+#qwq{
+    
+        background-color: white; 
+        color: black; 
+        border: 2px solid #008CBA;
+        font-size: 24px;
+
+}
+
+#qwq:hover {
+
+    background-color: #008CBA;
+    color: white;
+}
